@@ -98,7 +98,7 @@ footer{
 
 header{
   background-attachment: fixed; /* Parallax effect */
-  background-image: url('/images/header.JPG');      
+  background-image: url(/images/header.JPG);      
   background-position: center;  /* Parallax effect */
   background-repeat: no-repeat; /* Parallax effect */
   background-size: cover;       /* Parallax effect */
